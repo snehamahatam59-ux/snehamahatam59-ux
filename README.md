@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Akash
+# 👋 Hi, I'm Abhilasha Mahatam
 
 - 🔧 Full-Stack Developer based in Bhubaneswar, India.
 - 📬 How to reach me: [abhilashamahatam@gmail.com](mailto:abhilashamahatam@gmail.com)
@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/abhilasha mahatam/)
 [![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:k.abhilashamahatam@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/)
-[![Leetcode](https://img.shields.io/badge/Leetcode-yellow?logo=leetcode&logoColor=black)](https://leetcode.com/)
 
 ---
 
@@ -51,15 +50,6 @@ Here are some ideas to get you started:
 ### 🗄️ Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white
 
----
-
-### 📊 GitHub Stats
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-kanar&theme=tokyonight)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-kanar&theme=tokyonight)
-![Overall Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash-kanar&theme=tokyonight)
-
----
-
-> "Everything is new, untill you can't do." – Akash Kanar
+> "Everything is new, untill you can't do." – Abhilasha mahatam
